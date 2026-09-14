@@ -10,8 +10,6 @@
 
 <img src="./assets/xp-desktop.svg" width="100%" alt="Área de trabalho do Windows XP com a janela de boas-vindas da 1TDSPB"/>
 
-<p align="center"><a href="https://github.com/1TDSPB-26"><img src="https://img.shields.io/badge/GitHub-1TDSPB--26-0831D9?style=flat-square&logo=github&logoColor=white" alt="Organização 1TDSPB-26"/></a> <a href="https://www.fiap.com.br/"><img src="https://img.shields.io/badge/FIAP-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-ED145B?style=flat-square" alt="FIAP - ADS"/></a> <a href="https://github.com/orgs/1TDSPB-26/repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2F1TDSPB-26&query=%24.public_repos&label=reposit%C3%B3rios&color=3C9B1A&style=flat-square" alt="Quantidade de repositórios"/></a> <a href="https://github.com/1TDSPB-26"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2F1TDSPB-26&query=%24.followers&label=seguidores&color=F0A11A&style=flat-square" alt="Seguidores da organização"/></a> <img src="https://img.shields.io/badge/sistema-Windows%20XP%20SP3-245EDB?style=flat-square&logo=windowsxp&logoColor=white" alt="Windows XP SP3"/></p>
-
 </div>
 
 <br/>
@@ -26,8 +24,7 @@ Esta é a organização oficial da turma **1TDSPB** (Análise e Desenvolvimento 
 **Como funciona**
 
 1. **Um repositório por aula ou tema.** A cada encontro, o repositório correspondente é atualizado com o código construído ao vivo, comentários explicativos e eventuais exercícios.
-2. **Nomenclatura padrão.** Os repositórios seguem o formato `disciplina-semestre-tipo-nome` (veja a janela do Explorer abaixo).
-3. **Atualizações.** Os códigos são publicados logo após o início da aula. Um `git pull` antes de começar evita surpresas.
+2. **Atualizações.** Os códigos são publicados logo após o início da aula. Um `git pull` antes de começar evita surpresas.
 
 **Antes de começar qualquer atividade, leia o README do repositório dela.** Ele contém instruções, requisitos, prazos e critérios de avaliação.
 
@@ -55,21 +52,10 @@ Esta é a organização oficial da turma **1TDSPB** (Análise e Desenvolvimento 
 
 <br/>
 
-<!-- ======================= EXPLORER / NOMENCLATURA ======================= -->
+<!-- ======================= EXPLORER ======================= -->
 <div align="center">
 <img src="./assets/xp-explorer.svg" width="100%" alt="Windows Explorer em C:\Turmas\1TDSPB mostrando os repositórios da turma"/>
 </div>
-
-Padrão de nomes dos repositórios:
-
-```text
-disciplina-semestre-tipo-nome
-
-front-1sem-aula-01            aula de Front-end Design, 1º semestre
-front-1sem-checkpoint-01      checkpoint avaliativo
-front-1sem-exercicios         lista de exercícios
-conecta-campus                projeto da turma
-```
 
 <br/>
 
@@ -99,38 +85,6 @@ conecta-campus                projeto da turma
 
 <br/>
 
-<!-- ======================= COMO CONTRIBUIR ======================= -->
-<table>
-<tr><td><img src="./assets/win-contribuir.svg" width="100%" alt="Assistente para novas contribuições"/></td></tr>
-<tr><td>
-
-**Este assistente ajuda você a enviar uma atividade sem quebrar nada.**
-
-1. Acesse o repositório da atividade e leia o README inteiro.
-2. Clone o repositório (ou faça `git pull` se já tiver clonado).
-3. Crie uma branch com um nome claro: `seu-nome/atividade`.
-4. Faça commits pequenos e descritivos, seguindo [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/).
-5. Abra um Pull Request explicando o que foi feito.
-6. Aguarde a revisão antes de fazer o merge. Push direto na `main` não.
-
-```bash
-git clone https://github.com/1TDSPB-26/NOME-DO-REPOSITORIO.git
-cd NOME-DO-REPOSITORIO
-git checkout -b seu-nome/atividade
-git add .
-git commit -m "feat: descreve brevemente a alteração"
-git push origin seu-nome/atividade
-```
-
-</td></tr>
-</table>
-
-<div align="center">
-<img src="./assets/xp-cmd.svg" width="100%" alt="Prompt de Comando mostrando o fluxo git clone, checkout, commit"/>
-</div>
-
-<br/>
-
 <!-- ======================= TAREFAS AGENDADAS ======================= -->
 <table>
 <tr><td><img src="./assets/win-tarefas.svg" width="100%" alt="Tarefas agendadas"/></td></tr>
@@ -138,12 +92,9 @@ git push origin seu-nome/atividade
 
 | Tarefa | Status | Próxima execução |
 |:--|:--|:--:|
-| Challenge - Sprints 1 e 2 | Concluída | 24/05 |
-| Global Solution (GS) | Concluída | 09/06 |
-| Challenge - Sprint 3 | Concluída | 13/09 |
-| Challenge - Sprint 4 | Em execução | 04/11 |
+| Primeiro checkpoint | Em execução | 21/09 |
 
-As datas oficiais e os critérios de cada entrega estão sempre no README do repositório da atividade e no Portal do Aluno. Em caso de divergência, vale o que o professor publicou lá.
+As datas oficiais e os critérios de cada entrega estão sempre no Portal do Aluno.
 
 </td></tr>
 </table>
@@ -220,20 +171,6 @@ Ainda não apareceu aqui? Torne a sua participação na organização **pública
 
 <br/>
 
-<!-- ======================= DISCIPLINAS ======================= -->
-<table>
-<tr><td><img src="./assets/win-disciplinas.svg" width="100%" alt="Gerenciador de dispositivos - Disciplinas"/></td></tr>
-<tr><td>
-
-| Dispositivo | Responsável | Driver |
-|:--|:--|:--:|
-| Front-end Design | Alexandre Carlos | [@alecarlosjesus](https://github.com/alecarlosjesus) |
-
-</td></tr>
-</table>
-
-<br/>
-
 <!-- ======================= AJUDA ======================= -->
 <table>
 <tr><td><img src="./assets/win-ajuda.svg" width="100%" alt="Centro de ajuda e suporte"/></td></tr>
@@ -275,8 +212,6 @@ O cachorrinho da pesquisa não vai achar o seu bug sozinho.
 
 <!-- ======================= RODAPÉ ======================= -->
 <div align="center">
-
-<sub>1TDSPB - feito pela turma, para a turma. Nenhum Windows XP foi ferido na criação deste README.</sub>
 
 <a href="https://github.com/orgs/1TDSPB-26/repositories"><img src="./assets/xp-taskbar.svg" width="100%" alt="Barra de tarefas do Windows XP com aviso: novos repositórios disponíveis"/></a>
 
