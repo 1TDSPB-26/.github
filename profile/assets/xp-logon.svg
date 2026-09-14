@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 200" width="1100" height="200" role="img" aria-label="Tela de logon do Windows XP &#8212; 1TDSPB">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5A7EDC"/>
+      <stop offset="1" stop-color="#003399"/>
+    </linearGradient>
+    <linearGradient id="strip" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E88A1C"/>
+      <stop offset="0.5" stop-color="#F6B85A"/>
+      <stop offset="1" stop-color="#E88A1C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="200" fill="url(#lg)"/>
+  <rect y="22" width="1100" height="2" fill="url(#strip)"/>
+  <rect y="176" width="1100" height="2" fill="url(#strip)"/>
+  <rect y="0" width="1100" height="22" fill="#00309C"/>
+  <rect y="178" width="1100" height="22" fill="#00309C"/>
+
+  <line x1="550" y1="46" x2="550" y2="154" stroke="#9DB3F0" stroke-width="1" opacity="0.6"/>
+
+  <g transform="translate(300,58)">
+    <path d="M6 20 Q26 10 46 16 L42 52 Q24 44 4 52 Z" fill="#F35325"/>
+    <path d="M52 15 Q72 5 92 11 L88 47 Q70 39 50 47 Z" fill="#81BC06"/>
+    <path d="M3 58 Q23 50 43 56 L39 92 Q21 84 1 92 Z" fill="#05A6F0"/>
+    <path d="M49 55 Q69 47 89 53 L85 89 Q67 81 47 89 Z" fill="#FFBA08"/>
+  </g>
+  <g font-family="Tahoma, 'Trebuchet MS', Verdana, sans-serif" fill="#fff">
+    <text x="410" y="96" font-size="30" font-weight="700">Windows<tspan fill="#F0A11A" font-size="20" dx="6" dy="-10">xp</tspan></text>
+    <text x="410" y="126" font-size="13" fill="#DDE6FF">1TDSPB Edition</text>
+  </g>
+
+  <g font-family="Tahoma, Verdana, sans-serif" fill="#fff">
+    <text x="600" y="90" font-size="20" font-weight="700">Para começar, clique no seu nome de usuário</text>
+    <text x="600" y="116" font-size="13" fill="#DDE6FF">Cada avatar abaixo leva ao perfil do GitHub da pessoa.</text>
+  </g>
+
+  <text x="24" y="192" font-family="Tahoma, Verdana, sans-serif" font-size="11" fill="#DDE6FF">Depois de fazer logon, você pode adicionar ou alterar contas em Painel de controle &#8594; Contas de usuário.</text>
+</svg>

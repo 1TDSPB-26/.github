@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 36" width="1100" height="36" role="img" aria-label="Adicionar ou remover programas">
+  <defs>
+    <linearGradient id="tb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3D95FF"/>
+      <stop offset="0.1" stop-color="#0A6CF5"/>
+      <stop offset="0.5" stop-color="#0853E0"/>
+      <stop offset="1" stop-color="#0C4FD4"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 8 A8 8 0 0 1 8 0 H1092 A8 8 0 0 1 1100 8 V36 H0 Z" fill="url(#tb)"/>
+  <rect x="0" y="35" width="1100" height="1" fill="#0831D9"/>
+  <g transform="translate(10,8)"><circle cx="10" cy="10" r="8.5" fill="#D9E6F2" stroke="#7A7A7A" stroke-width="0.8"/><circle cx="10" cy="10" r="8.5" fill="none" stroke="#fff" stroke-width="0.6"/><path d="M4 8 A7 7 0 0 1 12 3" stroke="#F0A11A" stroke-width="1.6" fill="none"/><path d="M16 12 A7 7 0 0 1 8 17" stroke="#2B6BD6" stroke-width="1.6" fill="none"/><circle cx="10" cy="10" r="2.4" fill="#ECE9D8" stroke="#7A7A7A" stroke-width="0.8"/></g>
+  <text x="38" y="23.5" font-family="Tahoma, Verdana, 'Trebuchet MS', sans-serif" font-size="13" font-weight="700" fill="#fff">Adicionar ou remover programas</text>
+  <g transform="translate(1016,8)">
+    <rect width="21" height="19" rx="3" fill="#3C8DFF" stroke="#fff" stroke-width="0.8"/>
+    <rect x="5" y="13" width="11" height="2.2" fill="#fff"/>
+    <rect x="26" width="21" height="19" rx="3" fill="#3C8DFF" stroke="#fff" stroke-width="0.8"/>
+    <rect x="31" y="4.5" width="11" height="9.5" fill="none" stroke="#fff" stroke-width="1.5"/>
+    <rect x="52" width="25" height="19" rx="3" fill="#E15A4C" stroke="#fff" stroke-width="0.8"/>
+    <path d="M59 5 L70 14 M70 5 L59 14" stroke="#fff" stroke-width="1.9" stroke-linecap="round"/>
+  </g>
+</svg>

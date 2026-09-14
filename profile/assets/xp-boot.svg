@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 300" width="1100" height="300" role="img" aria-label="Tela de inicialização do Windows XP &#8212; 1TDSPB">
+  <defs>
+    <linearGradient id="barfill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1F49B8"/>
+      <stop offset="0.5" stop-color="#5D8CFF"/>
+      <stop offset="1" stop-color="#1F49B8"/>
+    </linearGradient>
+    <clipPath id="barclip">
+      <rect x="459" y="215" width="182" height="12" rx="2"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1100" height="300" fill="#000"/>
+
+  <!-- Bandeira Windows -->
+  <g transform="translate(392,86)">
+    <path d="M4 14 Q22 6 40 12 L37 40 Q20 34 3 40 Z" fill="#F35325"/>
+    <path d="M44 12 Q62 4 80 10 L77 38 Q60 32 43 38 Z" fill="#81BC06"/>
+    <path d="M2 46 Q20 40 38 46 L35 74 Q18 68 1 74 Z" fill="#05A6F0"/>
+    <path d="M42 44 Q60 38 78 44 L75 72 Q58 66 41 72 Z" fill="#FFBA08"/>
+  </g>
+
+  <g font-family="Tahoma, Verdana, 'Trebuchet MS', sans-serif" fill="#fff">
+    <text x="490" y="112" font-size="14" fill="#D6D6D6">Microsoft<tspan font-size="9" dy="-6">®</tspan></text>
+    <text x="490" y="152" font-size="40" font-weight="700" fill="#fff">Windows<tspan fill="#F0A11A" font-size="30" dx="8" dy="-14">xp</tspan></text>
+    <text x="604" y="176" font-size="12" fill="#D6D6D6">Professional &#8226; 1TDSPB Edition</text>
+  </g>
+
+  <!-- Barra de carregamento -->
+  <rect x="457" y="213" width="186" height="16" rx="3" fill="none" stroke="#8C8C8C" stroke-width="1.5"/>
+  <g clip-path="url(#barclip)">
+    <g>
+      <rect x="459" y="215" width="14" height="12" rx="1" fill="url(#barfill)"/>
+      <rect x="476" y="215" width="14" height="12" rx="1" fill="url(#barfill)"/>
+      <rect x="493" y="215" width="14" height="12" rx="1" fill="url(#barfill)"/>
+      <animateTransform attributeName="transform" type="translate" from="-60 0" to="200 0" dur="1.6s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <text x="550" y="262" text-anchor="middle" font-family="Tahoma, Verdana, sans-serif" font-size="12" fill="#9A9A9A">
+    Iniciando 1TDSPB
+    <tspan><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>...</tspan>
+  </text>
+  <text x="26" y="284" font-family="Tahoma, Verdana, sans-serif" font-size="11" fill="#6E6E6E">Copyright © 2026 Turma 1TDSPB &#8212; FIAP</text>
+  <text x="1074" y="284" text-anchor="end" font-family="Tahoma, Verdana, sans-serif" font-size="11" fill="#6E6E6E">Análise e Desenvolvimento de Sistemas</text>
+</svg>

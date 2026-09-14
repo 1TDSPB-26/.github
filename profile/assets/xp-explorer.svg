@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 420" width="1100" height="420" role="img" aria-label="Windows Explorer — C:\Turmas\1TDSPB">
+  <defs>
+    <linearGradient id="etb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3D95FF"/>
+      <stop offset="0.1" stop-color="#0A6CF5"/>
+      <stop offset="0.5" stop-color="#0853E0"/>
+      <stop offset="1" stop-color="#0C4FD4"/>
+    </linearGradient>
+    <linearGradient id="menu" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F5F4EA"/>
+      <stop offset="1" stop-color="#ECE9D8"/>
+    </linearGradient>
+    <linearGradient id="side" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7BA2E7"/>
+      <stop offset="1" stop-color="#6375D6"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="1084" height="404" rx="8" fill="#0831D9"/>
+  <rect x="11" y="11" width="1078" height="398" rx="6" fill="#ECE9D8"/>
+  <rect x="11" y="11" width="1078" height="30" rx="6" fill="url(#etb)"/>
+  <rect x="11" y="28" width="1078" height="13" fill="#0C4FD4"/>
+  <text x="24" y="31" font-family="Tahoma, Verdana, sans-serif" font-size="13" font-weight="700" fill="#fff">C:\Turmas\1TDSPB</text>
+  <g transform="translate(1010,16)">
+    <rect width="21" height="18" rx="2" fill="#3C8DFF" stroke="#fff" stroke-width="0.7"/>
+    <rect y="12" x="5" width="11" height="2" fill="#fff"/>
+    <rect x="26" width="21" height="18" rx="2" fill="#3C8DFF" stroke="#fff" stroke-width="0.7"/>
+    <rect x="31" y="4" width="11" height="9" fill="none" stroke="#fff" stroke-width="1.4"/>
+    <rect x="52" width="21" height="18" rx="2" fill="#E15A4C" stroke="#fff" stroke-width="0.7"/>
+    <path d="M57 7 L68 16 M68 7 L57 16" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+
+  <rect x="11" y="41" width="1078" height="24" fill="url(#menu)"/>
+  <g font-family="Tahoma, Verdana, sans-serif" font-size="12" fill="#000">
+    <text x="24" y="58">Arquivo</text>
+    <text x="84" y="58">Editar</text>
+    <text x="134" y="58">Exibir</text>
+    <text x="184" y="58">Favoritos</text>
+    <text x="252" y="58">Ferramentas</text>
+    <text x="336" y="58">Ajuda</text>
+  </g>
+
+  <rect x="11" y="65" width="1078" height="36" fill="#ECE9D8" stroke="#D4D0C8"/>
+  <g font-family="Tahoma, Verdana, sans-serif" font-size="11" fill="#000">
+    <rect x="24" y="72" width="70" height="22" fill="#ECE9D8" stroke="#808080"/>
+    <text x="59" y="87" text-anchor="middle">Voltar</text>
+    <rect x="100" y="72" width="78" height="22" fill="#ECE9D8" stroke="#808080"/>
+    <text x="139" y="87" text-anchor="middle">Pesquisar</text>
+    <text x="200" y="87" fill="#003399">Endereço</text>
+    <rect x="258" y="73" width="800" height="20" fill="#fff" stroke="#7A7A7A"/>
+    <text x="266" y="87" fill="#000">C:\Turmas\1TDSPB\</text>
+  </g>
+
+  <!-- Painel lateral -->
+  <rect x="20" y="112" width="200" height="268" fill="url(#side)"/>
+  <rect x="20" y="112" width="200" height="22" fill="#fff" opacity="0.9"/>
+  <text x="28" y="127" font-family="Tahoma, Verdana, sans-serif" font-size="11" font-weight="700" fill="#215DC6">Tarefas de arquivo e pasta</text>
+  <g font-family="Tahoma, Verdana, sans-serif" font-size="11" fill="#fff">
+    <text x="30" y="154">Criar nova branch</text>
+    <text x="30" y="174">Abrir Pull Request</text>
+    <text x="30" y="194">Ler o README</text>
+  </g>
+  <rect x="20" y="210" width="200" height="22" fill="#fff" opacity="0.9"/>
+  <text x="28" y="225" font-family="Tahoma, Verdana, sans-serif" font-size="11" font-weight="700" fill="#215DC6">Detalhes</text>
+  <g font-family="Tahoma, Verdana, sans-serif" font-size="11" fill="#fff">
+    <text x="30" y="252" font-weight="700">1TDSPB</text>
+    <text x="30" y="270">Pasta de turma</text>
+    <text x="30" y="290">Padrão de nomes:</text>
+    <text x="30" y="308" font-family="'Lucida Console', Consolas, monospace" font-size="10">disciplina-sem-tipo-nome</text>
+  </g>
+
+  <!-- Lista de arquivos -->
+  <rect x="230" y="112" width="848" height="268" fill="#fff" stroke="#7A7A7A"/>
+  <g font-family="Tahoma, Verdana, sans-serif" font-size="11" fill="#000">
+    <text x="248" y="127" font-weight="700">Nome</text>
+    <text x="620" y="127" font-weight="700">Tipo</text>
+    <text x="840" y="127" font-weight="700">Modificado em</text>
+    <line x1="230" y1="134" x2="1078" y2="134" stroke="#D4D0C8"/>
+
+    <path d="M238 146 L238 164 L266 164 L266 148 L252 148 L249 145 L238 145 Z" fill="#E8C44A" stroke="#A98418"/>
+    <text x="276" y="158">conecta-campus</text>
+    <text x="620" y="158">Pasta de arquivos</text>
+    <text x="840" y="158">13/09/2026</text>
+
+    <path d="M238 180 L238 198 L266 198 L266 182 L252 182 L249 179 L238 179 Z" fill="#E8C44A" stroke="#A98418"/>
+    <text x="276" y="192">.github</text>
+    <text x="620" y="192">Pasta de arquivos</text>
+    <text x="840" y="192">14/09/2026</text>
+
+    <path d="M238 214 L238 232 L266 232 L266 216 L252 216 L249 213 L238 213 Z" fill="#E8C44A" stroke="#A98418" opacity="0.45"/>
+    <text x="276" y="226" fill="#7A7A7A">front-1sem-aula-01</text>
+    <text x="620" y="226" fill="#7A7A7A">Pasta de arquivos (em breve)</text>
+    <text x="840" y="226" fill="#7A7A7A">—</text>
+
+    <rect x="240" y="246" width="24" height="20" fill="#fff" stroke="#316AC5"/>
+    <text x="244" y="260" font-size="9" fill="#316AC5">txt</text>
+    <text x="276" y="260">LEIA-ME.txt</text>
+    <text x="620" y="260">Documento de texto</text>
+    <text x="840" y="260">hoje</text>
+
+    <rect x="240" y="280" width="24" height="20" fill="#003399"/>
+    <text x="245" y="294" font-size="9" fill="#fff">lnk</text>
+    <text x="276" y="294">Portal FIAP.lnk</text>
+    <text x="620" y="294">Atalho</text>
+    <text x="840" y="294">—</text>
+  </g>
+
+  <rect x="11" y="384" width="1078" height="25" fill="#ECE9D8" stroke="#D4D0C8"/>
+  <text x="24" y="401" font-family="Tahoma, Verdana, sans-serif" font-size="11" fill="#000">5 objetos  |  Turma 1TDSPB  |  ADS • FIAP • 2026</text>
+</svg>
