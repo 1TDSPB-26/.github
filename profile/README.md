@@ -114,10 +114,6 @@ As datas oficiais e os critérios de cada entrega estão sempre no Portal do Alu
 4. Mantenha nomes de arquivos, branches e commits claros.
 5. Respeite os prazos e sinalize bloqueios com antecedência.
 6. Em trabalhos em grupo, todas as pessoas participam e entendem a entrega.
-7. Código copiado sem entendimento não conta como aprendizado. Nem como milagre.
-
-- [x] Aceito os termos do contrato de licença
-- [ ] Não aceito (o assistente será encerrado)
 
 </td></tr>
 </table>
@@ -138,12 +134,7 @@ As datas oficiais e os critérios de cada entrega estão sempre no Portal do Alu
 <tr><td><img src="./assets/win-usuarios.svg" width="100%" alt="Contas de usuário"/></td></tr>
 <tr><td>
 
-<img src="./assets/xp-logon.svg" width="100%" alt="Tela de logon do Windows XP - para começar, clique no seu nome de usuário"/>
-
-<!--
-  Para adicionar uma pessoa, copie a linha <td> abaixo e troque o usuário do GitHub e o nome.
-  O avatar é carregado automaticamente de https://github.com/USUARIO.png
--->
+<!-- Avatares: https://github.com/USUARIO.png -->
 
 <table align="center">
   <tr>
@@ -151,20 +142,194 @@ As datas oficiais e os critérios de cada entrega estão sempre no Portal do Alu
       <a href="https://github.com/alecarlosjesus">
         <img src="https://github.com/alecarlosjesus.png?size=120" width="88" alt="Alexandre Carlos"/><br/>
         <sub><b>Alexandre Carlos</b></sub><br/>
-        <sub>Administrador - Front-end Design</sub>
+        <sub>Administrador</sub>
       </a>
     </td>
     <td align="center" width="160">
-      <a href="https://github.com/orgs/1TDSPB-26/people">
-        <img src="https://github.com/1TDSPB-26.png?size=120" width="88" alt="Todas as pessoas da organização"/><br/>
-        <sub><b>Convidado</b></sub><br/>
-        <sub>ver todas as pessoas</sub>
+      <a href="https://github.com/AnaFeitoza1">
+        <img src="https://github.com/AnaFeitoza1.png?size=120" width="88" alt="Ana Feitoza"/><br/>
+        <sub><b>Ana Feitoza</b></sub><br/>
+        <sub>@AnaFeitoza1</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/brunastagliano">
+        <img src="https://github.com/brunastagliano.png?size=120" width="88" alt="Bruna Stagliano"/><br/>
+        <sub><b>Bruna Stagliano</b></sub><br/>
+        <sub>@brunastagliano</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/brunoardenghi">
+        <img src="https://github.com/brunoardenghi.png?size=120" width="88" alt="Bruno Ardenghi"/><br/>
+        <sub><b>Bruno Ardenghi</b></sub><br/>
+        <sub>@brunoardenghi</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/claudiosilva06">
+        <img src="https://github.com/claudiosilva06.png?size=120" width="88" alt="Claudio Silva"/><br/>
+        <sub><b>Claudio Silva</b></sub><br/>
+        <sub>@claudiosilva06</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/DavidPucinelli">
+        <img src="https://github.com/DavidPucinelli.png?size=120" width="88" alt="David Pucinelli"/><br/>
+        <sub><b>David Pucinelli</b></sub><br/>
+        <sub>@DavidPucinelli</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/Enzofukimoto">
+        <img src="https://github.com/Enzofukimoto.png?size=120" width="88" alt="Enzo"/><br/>
+        <sub><b>Enzo</b></sub><br/>
+        <sub>@Enzofukimoto</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/enzofrasca">
+        <img src="https://github.com/enzofrasca.png?size=120" width="88" alt="Enzo Frasca"/><br/>
+        <sub><b>Enzo Frasca</b></sub><br/>
+        <sub>@enzofrasca</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/Everson-Domingos-Junior">
+        <img src="https://github.com/Everson-Domingos-Junior.png?size=120" width="88" alt="Everson Domingos Junior"/><br/>
+        <sub><b>Everson Domingos Junior</b></sub><br/>
+        <sub>@Everson-Domingos-Junior</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/GabrielHenriqueDantas">
+        <img src="https://github.com/GabrielHenriqueDantas.png?size=120" width="88" alt="Gabriel Dantas"/><br/>
+        <sub><b>Gabriel Dantas</b></sub><br/>
+        <sub>@GabrielHenriqueDantas</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/GMacarioxz">
+        <img src="https://github.com/GMacarioxz.png?size=120" width="88" alt="Gabrielly Macario"/><br/>
+        <sub><b>Gabrielly Macario</b></sub><br/>
+        <sub>@GMacarioxz</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/JGTI09">
+        <img src="https://github.com/JGTI09.png?size=120" width="88" alt="João Gabriel"/><br/>
+        <sub><b>João Gabriel</b></sub><br/>
+        <sub>@JGTI09</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/JoaoPaseto">
+        <img src="https://github.com/JoaoPaseto.png?size=120" width="88" alt="João Pedro Paseto"/><br/>
+        <sub><b>João Pedro Paseto</b></sub><br/>
+        <sub>@JoaoPaseto</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/Julio-Ciusjmak">
+        <img src="https://github.com/Julio-Ciusjmak.png?size=120" width="88" alt="Julio Ciusjmak"/><br/>
+        <sub><b>Julio Ciusjmak</b></sub><br/>
+        <sub>@Julio-Ciusjmak</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/luizfelipe-m">
+        <img src="https://github.com/luizfelipe-m.png?size=120" width="88" alt="Luiz Felipe"/><br/>
+        <sub><b>Luiz Felipe</b></sub><br/>
+        <sub>@luizfelipe-m</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/MLui-za">
+        <img src="https://github.com/MLui-za.png?size=120" width="88" alt="Malu"/><br/>
+        <sub><b>Malu</b></sub><br/>
+        <sub>@MLui-za</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/MarcosPaulo13">
+        <img src="https://github.com/MarcosPaulo13.png?size=120" width="88" alt="Marcos Paulo"/><br/>
+        <sub><b>Marcos Paulo</b></sub><br/>
+        <sub>@MarcosPaulo13</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/miguelfreiretrevisan">
+        <img src="https://github.com/miguelfreiretrevisan.png?size=120" width="88" alt="Miguel Freire Trevisan"/><br/>
+        <sub><b>Miguel Freire Trevisan</b></sub><br/>
+        <sub>@miguelfreiretrevisan</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/moisesalciati">
+        <img src="https://github.com/moisesalciati.png?size=120" width="88" alt="Moises Alciati"/><br/>
+        <sub><b>Moises Alciati</b></sub><br/>
+        <sub>@moisesalciati</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/moroni07">
+        <img src="https://github.com/moroni07.png?size=120" width="88" alt="Moroni Douglas"/><br/>
+        <sub><b>Moroni Douglas</b></sub><br/>
+        <sub>@moroni07</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/rafaelcadena-tech">
+        <img src="https://github.com/rafaelcadena-tech.png?size=120" width="88" alt="Rafael Cadena"/><br/>
+        <sub><b>Rafael Cadena</b></sub><br/>
+        <sub>@rafaelcadena-tech</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/ragviana">
+        <img src="https://github.com/ragviana.png?size=120" width="88" alt="Rubens Viana"/><br/>
+        <sub><b>Rubens Viana</b></sub><br/>
+        <sub>@ragviana</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/mirella-alcantara">
+        <img src="https://github.com/mirella-alcantara.png?size=120" width="88" alt="Taiane Mirella"/><br/>
+        <sub><b>Taiane Mirella</b></sub><br/>
+        <sub>@mirella-alcantara</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/ThomazRocha">
+        <img src="https://github.com/ThomazRocha.png?size=120" width="88" alt="Thomaz Rocha"/><br/>
+        <sub><b>Thomaz Rocha</b></sub><br/>
+        <sub>@ThomazRocha</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/ymasotti-boop">
+        <img src="https://github.com/ymasotti-boop.png?size=120" width="88" alt="Yohan Martins"/><br/>
+        <sub><b>Yohan Martins</b></sub><br/>
+        <sub>@ymasotti-boop</sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/sasaki171">
+        <img src="https://github.com/sasaki171.png?size=120" width="88" alt="Yuri Abreu"/><br/>
+        <sub><b>Yuri Abreu</b></sub><br/>
+        <sub>@sasaki171</sub>
       </a>
     </td>
   </tr>
 </table>
-
-Ainda não apareceu aqui? Torne a sua participação na organização **pública** em [github.com/orgs/1TDSPB-26/people](https://github.com/orgs/1TDSPB-26/people) e abra um PR neste repositório adicionando o seu card.
 
 </td></tr>
 </table>
@@ -183,8 +348,6 @@ Ainda não apareceu aqui? Torne a sua participação na organização **pública
 - o que aconteceu de fato;
 - a mensagem de erro completa;
 - print ou trecho de código relevante.
-
-O cachorrinho da pesquisa não vai achar o seu bug sozinho.
 
 </td></tr>
 </table>
