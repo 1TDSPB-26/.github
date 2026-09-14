@@ -288,15 +288,11 @@ O cachorrinho da pesquisa não vai achar o seu bug sozinho.
 
 <br/>
 
-<!-- ======================= DESLIGAR ======================= -->
+<!-- ======================= RODAPÉ ======================= -->
 <div align="center">
-
-<img src="./assets/xp-shutdown.svg" width="560" alt="Desligar o computador - Em espera, Desativar, Reiniciar"/>
 
 <sub>1TDSPB - feito pela turma, para a turma. Nenhum Windows XP foi ferido na criação deste README.</sub>
 
 <a href="https://github.com/orgs/1TDSPB-26/repositories"><img src="./assets/xp-taskbar.svg" width="100%" alt="Barra de tarefas do Windows XP com aviso: novos repositórios disponíveis"/></a>
-
-<sub><i>É seguro desligar o computador agora.</i></sub>
 
 </div>
