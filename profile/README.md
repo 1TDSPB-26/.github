@@ -129,21 +129,6 @@ git push origin seu-nome/atividade
 <img src="./assets/xp-cmd.svg" width="100%" alt="Prompt de Comando mostrando o fluxo git clone, checkout, commit"/>
 </div>
 
-```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#ECE9D8", "primaryTextColor": "#000000", "primaryBorderColor": "#0831D9", "lineColor": "#0831D9", "secondaryColor": "#FFFFE1", "tertiaryColor": "#ECE9D8"}}}%%
-flowchart LR
-    A[Conteúdo da aula] --> B[Repositório atualizado]
-    B --> C[git pull + nova branch]
-    C --> D[Desenvolvimento]
-    D --> E[Pull Request]
-    E --> F{Revisão}
-    F -->|ajustes| D
-    F -->|aprovado| G[Merge na main]
-```
-
-> [!TIP]
-> Evite mensagens de commit como `alteração`, `coisas` ou `agora vai`. Um bom commit explica o que mudou sem exigir uma investigação criminal.
-
 <br/>
 
 <!-- ======================= TAREFAS AGENDADAS ======================= -->
